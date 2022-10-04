@@ -1,0 +1,29 @@
+{
+	"name": "working-with-selenium",
+	"version": "1.0.0",
+	"description": "using selenium with Node js",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ghozlene/selenium-with-nodeJs.git"
+	},
+	"keywords": [
+		"selenium",
+		"nodejs",
+		"automation",
+		"library"
+	],
+	"author": "Ghozlene Mohamed Achref",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ghozlene/selenium-with-nodeJs/issues"
+	},
+	"homepage": "https://github.com/ghozlene/selenium-with-nodeJs#readme",
+	"dependencies": {
+		"chromedriver": "^106.0.1",
+		"selenium-webdriver": "^4.5.0"
+	}
+}
